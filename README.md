@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Carpe-liam
-- 👀 I’m interested in software development, technology, and learning new things
+- 👀 I’m interested in software development, technology, and learning new things!
 - 🌱 I’m currently enrolled in Coding Dojo & Start on 8-16-21 
 
 <!---
